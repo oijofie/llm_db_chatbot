@@ -2,7 +2,7 @@
 
 ### デモ
 
-![demo](https://github.com/oijofie/llm_db_chatbot/tree/main/demo)
+![demo](https://github.com/oijofie/llm_db_chatbot/blob/main/demo/llm_db.gif)
 
 ### 概要
 
